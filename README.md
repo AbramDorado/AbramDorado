@@ -1,11 +1,15 @@
 [![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abram Dorado</h1>
 <h3 align="center">I am developer with a passion in learning new technologies. I am based in the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+in+Software+Engineering%2C+;Machine+Learning+%26+UI%2FUX+Design" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abramdorado&label=Profile%20views&color=0e75b6&style=flat" alt="abramdorado" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abramdorado" alt="abramdorado" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
