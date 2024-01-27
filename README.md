@@ -1,6 +1,6 @@
 [![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abram Dorado</h1>
-<h3 align="center">I am developer with a passion in learning new technologies. I am based in the Philippines</h3>\
+<h3 align="center">I am developer with a passion in learning new technologies. I am based in the Philippines</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Experienced+in+Software+Engineering%2C+;Machine+Learning+%26+UI%2FUX+Design" alt="Typing SVG" /></a>
