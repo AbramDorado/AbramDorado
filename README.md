@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **doradobam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VGhJqfFF0Q9F4UT5P1Stijmmcak4aCo9/view?usp=sharing](https://drive.google.com/file/d/1VGhJqfFF0Q9F4UT5P1Stijmmcak4aCo9/view?usp=sharing)
+- 📄 Know about my experiences [Curriculumn Vitae](https://drive.google.com/file/d/1VGhJqfFF0Q9F4UT5P1Stijmmcak4aCo9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny Guy**
 
