@@ -21,6 +21,9 @@
 
 - 📫 How to reach me **doradobam@gmail.com**
 
+- 📑 Know my expeience: [Dorado_Abram_2024_CV.pdf](https://github.com/AbramDorado/AbramDorado/files/14117124/Dorado_Abram_2024_CV.pdf)
+
+
 - ⚡ Fun fact **I think I am Funny Guy**
 
 <h3 align="left">Connect with me:</h3>
